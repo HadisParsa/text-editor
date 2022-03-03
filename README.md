@@ -63,12 +63,26 @@ SO THAT I can reliably retrieve them for later use
 
 ## Link
 
-The following animation demonstrates the application functionality:
+# This Application deployed to Heroku at live URL with build scripts:
+* [Click here to access to Heroku live URL](https://hp-text-editor.herokuapp.com/).
 
-![ScreenShot of text editor web application](client/src/images/ScreenShot.jpg)
+
+* [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
+
+## The following animation demonstrates the application functionality:
+
+![ScreenShot of text editor web application](client/src/images/ScreenShot4.jpg)
+
+## You can install it with install button or Chrome icon: 
+
+![ScreenShot of text editor web application](client/src/images/ScreenShot3.jpg)
+## The following image shows the application's manifest.json file:
+![ScreenShot of text editor web application](client/src/images/ScreenShot1.jpg)
+
+## The following image shows the application's registered service worker:
+![ScreenShot of text editor web application](client/src/images/ScreenShot2.jpg)
 
 
-This Application deployed to Heroku at live URL with build scripts:
-* [Click here to access to Heroku live URL]().
 
-[Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
+
+
